@@ -1,7 +1,7 @@
 let canvas=document.querySelector('canvas');
 
-let width=1000;
-let height=600;
+let width=900;
+let height=500;
 let score=0;
 
 let apple=new Image();
